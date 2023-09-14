@@ -1,22 +1,25 @@
 # Grammatica Latina
 
-_Singulāris et plūralis_
-[A] Nilus _fluvius_ _magnus_ est.
-Nilus et Rhēnus _fluviī_ _magnī_ sunt.
+## _Singulāris et plūralis_
+- Nilus _fluvius_ _magnus_ est.
+- Nilus et Rhēnus _fluviī_ _magnī_ sunt.
+
 _Fluvius_ singulāris est. _Fluviī_ plūrālis est. _Singulāris:_ _-us_. _Plurālis:_ _-ī_.
 
 Exemplum: numerus, numerī.
 I _parvus_ numerus est. I et II _parvī_ _numerī_ sunt.
 
-[B] Corsica _insula_ _magna_ est.
-Corsica et Sardinal _insulæ_ _magnæ_ sunt.
+- Corsica _insula_ _magna_ est.
+- Corsica et Sardinia _insulæ_ _magnæ_ sunt.
+
 _Insula_ singulāris est. _Insulæ_ plūrālis est. _Singulāris:_ _-a_. _Plurālis:_ _-æ_.
 
 Exempla: littera, litterae; prōvincia, prōvinciæ.
 _A_ littera Latīna est. _A_ et _B_ litterae Latinæ sunt. Gallia est provincia Rōmāna. Gallia et Hīspania provinciæ Rōmānae sunt.
 
-[C] Brundisum oppidum magnum est.
-Brundisum et Spart oppida magna sunt.
+- Brundisum oppidum magnum est.
+- Brundisum et Sparta oppida magna sunt.
+
 _Oppidum_ singulāris est. _Oppida_ plurālis est. Singulāris: _-um_, Plurālis _-a_.
 
 Exempla: vocābulum, vocābula, exemplum, exempla.
